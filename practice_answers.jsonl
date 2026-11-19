@@ -1,0 +1,4 @@
+{"id": "q1", "question": "How many days of annual leave do employees receive?", "answer": "Employees receive 25 days of annual leave per year. (Source: `leave.txt`)"}
+{"id": "q2", "question": "How many leave days does employee E001 have left?", "answer": "Employee E001 has 12 leave days remaining."}
+{"id": "q3", "question": "How much is the annual performance bonus?", "answer": "The provided documents do not contain this information."}
+{"id": "q4", "question": "How many leave days does employee E999 have left?", "answer": "Employee E999 was not found."}
